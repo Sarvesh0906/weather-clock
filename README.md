@@ -2,7 +2,6 @@
 
 A beautiful, modern web app that combines real-time weather, a live clock, and a powerful stopwatch—all in one place. Built with React and Vite, Weather Clock is your perfect daily companion for checking the weather, keeping track of time, and managing your activities.
 
----
 
 ## 🚀 Features
 
@@ -15,7 +14,6 @@ A beautiful, modern web app that combines real-time weather, a live clock, and a
 - **Responsive Design**: Looks great on desktop and mobile devices.
 - **Powered by OpenWeatherMap API**: Reliable, up-to-date weather data.
 
----
 
 ## ✨ Why Weather Clock?
 
@@ -24,7 +22,6 @@ A beautiful, modern web app that combines real-time weather, a live clock, and a
 - **User-Centric**: Thoughtful error handling, fallback options, and accessibility in mind.
 - **Custom Crafted**: Every component, style, and feature is hand-coded with care and creativity.
 
----
 
 ## 🛠️ Technical Details
 
@@ -36,7 +33,6 @@ A beautiful, modern web app that combines real-time weather, a live clock, and a
 - **Custom Components**: Weather, Forecast, Live Clock, Stopwatch
 - **Responsive CSS**: Custom styles for each feature, with media queries for all devices
 
----
 
 ## 🙌 My Hard Work & Dedication
 
@@ -48,7 +44,6 @@ This app is the result of countless hours of coding, designing, and refining. Ev
 
 I hope you enjoy using Weather Clock as much as I enjoyed building it!
 
----
 
 ## 📝 How to Run Locally
 
@@ -71,7 +66,6 @@ I hope you enjoy using Weather Clock as much as I enjoyed building it!
 5. **Open in your browser:**
    - Visit [http://localhost:5173](http://localhost:5173)
 
----
 
 ## 🤝 Credits
 
@@ -79,7 +73,6 @@ I hope you enjoy using Weather Clock as much as I enjoyed building it!
 - Weather data from [OpenWeatherMap](https://openweathermap.org/)
 - Built with [React](https://react.dev/) and [Vite](https://vitejs.dev/)
 
----
 
 ## 📢 License
 
