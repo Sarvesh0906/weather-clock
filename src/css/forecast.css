@@ -1,0 +1,136 @@
+.forecast {
+    width: 40%;
+    float: left;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.73);
+}
+
+.forecast-icon {
+    padding-top: 25px;
+    font-size: 150px;
+    color: white;
+}
+
+.cityHead {
+    padding-top: 10px;
+    font-size: 1.6rem;
+    padding-bottom: 6px;
+    gap: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    font-size: xxx-large;
+}
+
+.search-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 15px;
+    position: relative;
+    /* padding: 10px; */
+    z-index: 2;
+}
+
+.search-box .img-box {
+    background: rgb(255, 255, 255, 0.2);
+    border-radius: 50%;
+    height: 35px;
+    width: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2px;
+}
+
+.search-box img {
+    width: 60%;
+    cursor: pointer;
+}
+
+.search-box .search-bar {
+    border: none;
+    padding: 10px 11px;
+    background: transparent;
+    color: white;
+    border-bottom: 1px solid;
+    font-size: 16px;
+}
+
+.search-box .search-bar::placeholder {
+    color: white;
+}
+
+.search-bar:focus {
+    outline: none;
+    border-bottom: 1px solid gray;
+    transition: all 1s ease-in-out;
+}
+
+.mb-icon {
+    height: 100%;
+    position: absolute;
+    top: 34%;
+    left: 36%;
+    z-index: 1;
+    display: none;
+}
+
+.mb-icon p {
+    color: white;
+    width: fit-content;
+    position: relative;
+    left: 24%;
+    top: 2%;
+    font-size: 25px;
+}
+
+.today-weather h3 {
+    text-transform: capitalize;
+    font-size: 50px;
+    color: #fff;
+    width: 75%;
+    margin: 0 auto 10px;
+    padding-bottom: 10px;
+    border-width: thin;
+    border-bottom: 1px solid #eee;
+}
+
+.today-weather ul li {
+    width: 74%;
+    margin: 0 auto;
+    line-height: 39px;
+    border-width: thin;
+    border-bottom: 1px solid #777;
+    color: #eee;
+    font-weight: 600;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.today-weather ul li span {
+    float: right;
+    padding-right: 20px;
+}
+
+.footer {
+    padding-bottom: 20px;
+}
+
+.copyright p {
+    color: #fff;
+}
+
+.copyright p a {
+    color: #fff;
+}
+
+.copyright p a:hover {
+    color: #ffeb3b;
+}
